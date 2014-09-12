@@ -1,7 +1,7 @@
 <html>
 <body>
 	<script>
-	document.write('<div style="'+location.pathname+'"></div>');
+	eval('a="'+location.pathname+'"');
 	</script>
 </body>
 </html>
