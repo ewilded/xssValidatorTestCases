@@ -7,7 +7,6 @@ location.hash.jsinject.squot.html,[OK],[OK],[OK],[OK],http://localhost/domhell/l
 location.hash.jsinject.dquot.html,[NOTOK],[OK],[OK],[OK],"http://localhost/domhell/location.hash.jsinject.dquot.html#"";alert(299792458)//"
 location.pathname.jsinject.squot.php,[OK],[OK],[OK],[NOTOK],http://localhost/domhell/location.pathname.jsinject.squot.php/';alert(299792458)//
 location.pathname.jsinject.dquot.php,[OK],[NOTOK],[NOTOK],[NOTOK],"http://localhost/domhell/location.pathname.jsinject.dquot.php/"";alert(299792458)//"
-location.pathname.jsinject.php,does,not,exist,(js,
 location.pathname.htmlinject.php,[OK],[NOTOK],[NOTOK],[NOTOK],http://localhost/domhell/location.pathname.htmlinject.php/<script>alert(299792458)</script> 
 location.pathname.htmlinject.squot.php,[OK],[NOTOK],[NOTOK],[NOTOK],http://localhost/domhell/location.pathname.htmlinject.squot.php/'><script>alert(299792458)</script>
 location.pathname.htmlinject.dquot.php,[OK],[NOTOK],[NOTOK],[NOTOK],"http://localhost/domhell/location.pathname.htmlinject.dquot.php/""><script>alert(299792458)</script>"
