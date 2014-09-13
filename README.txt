@@ -42,3 +42,11 @@ By now we have 7 types of XSS that will work under IE and will still not be dete
 - some tuning
 - employment of other browse engines (like slimerjs or others)
 we will get the summary undetectable case rate close to 0 :)
+
+Servers to use:
+http://triflejs.org/ <-- headless IE :D
+http://slimerjs.org/ <-- 'headless' Gecko
+http://phantomjs.org/ <-- headless Webkit (so far this is the only on we've been testing)
+
+First real world issues noticed: phantomjs has problems with jquery.
+
